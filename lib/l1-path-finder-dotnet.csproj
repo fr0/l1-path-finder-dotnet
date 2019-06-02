@@ -5,4 +5,8 @@
     <RootNamespace>l1_path_finder_dotnet</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NumSharp" Version="0.8.2" />
+  </ItemGroup>
+
 </Project>

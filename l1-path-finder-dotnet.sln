@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l1-path-finder-dotnet", "l1-path-finder-dotnet\l1-path-finder-dotnet.csproj", "{10190DB9-E6C3-44CD-947A-EC7BAC5F6DEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "l1-path-finder-dotnet", "lib\l1-path-finder-dotnet.csproj", "{10190DB9-E6C3-44CD-947A-EC7BAC5F6DEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11D27B10-CE27-4B40-9B49-65B7F6072556}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
